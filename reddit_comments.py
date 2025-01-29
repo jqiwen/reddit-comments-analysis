@@ -17,7 +17,7 @@ comment_count = 0
 
 with open(csv_filename, mode="w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
-    writer.writerow(["Comment", "Label"])  # CSV Header
+    writer.writerow(["Post Title", "Comment", "Label"])  # CSV Header
 
     print("Fetching latest posts from /r/technology...")
     for post in subreddit.new():  # No limit on posts
@@ -32,7 +32,7 @@ with open(csv_filename, mode="w", newline="", encoding="utf-8") as file:
             if comment_count >= max_comments:
                 break
             if comment.body.strip():  # Skip empty comments
-                writer.writerow([comment.body, ""])  # Leave label blank
+                writer.writerow([post.title, comment.body, ""])  # Leave label blank
                 comment_count += 1
         
         print(f"Processed {comment_count} comments")
