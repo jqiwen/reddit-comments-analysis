@@ -14,6 +14,7 @@ print("Fetching latest posts from /r/technology...")
 for post in subreddit.new(limit=5): 
     print(f"Title: {post.title}")
     print(f"ID: {post.id}")
+    print(f"Reddit Link: https://www.reddit.com{post.permalink}")
     print(f"URL: {post.url}")
     print(f"Score: {post.score}")
     print("-" * 50)
