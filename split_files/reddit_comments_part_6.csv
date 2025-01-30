@@ -1,12 +1,255 @@
 Post Title,Comment,Label
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",saltman smh,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,The project 2025 folks are driving everything.  With a few exceptions the Trump appointees are just the publicity people.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"I'm worried about my health, there is more than just carbon going into the air from vehicles, there are a lot of extremely harmful compounds that are removed by the emissions system or reduced. Look forward to increases in respiratory issues and cancer. Glad to be Canadian right now because we wouldn't put up with it.",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",It would be interesting if they went through a lengthy legal battle to establish a precedent that AI models can be a form of copyright violation then it got used against them.,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","So, let me see if I get this straight...
+Alibaba releases AI model it says surpasses DeepSeek,The news surrounding AI in the last 24 hours has been nothing but hilarious.,
+"ChatGPT’s mobile users are 85% male, report says","Dang. I thought I was 100% male. Learn something every day, I guess",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","I think this is payback for the TikTok ban and maybe the crippling of huawei. The timeline is too perfectly lined up. Just when TikTok closes it doors deepseek appears. Can’t help, but to laugh about the irony tho.",
+"ChatGPT’s mobile users are 85% male, report says",I'd put it the other way around actually.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"It's an old Russian political trick. Hire a grossly incompetent person into role X, and they will always do what you tell them because you both know they are replacable. It encourages personal loyalty but completely disregards competence. 
 
-OpenAI is essentially the Seeder and they're upset at other companies downloading and utilizing info OpenAI stole from others previously?",
-"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.",And a cabinet position. You forgot the cabinet position!,
+The real problem is that most states - particularly industrial states - have environmental regulations and on the ground rules and such, so even if you remove federal regulation Car companies that want to sell into California, Texas, New York need to hit a common standard, so you build to whatever the most stringent regulation is because you're spending billions or tens of billions in engineering and manufacturing development costs.
+
+So Donald Trump can shit on every federal regulation and is still fucked by the fact that 50 states have a potpourri of regulations and suddenly it's a population over law problem, New York, California, Florida, Texas, Illinois and Ohio laws dominate the conversation and only two of them are entirely on board with the stupidity.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,We are already behind the CEO of Ford daily driver for 6 months was a Chinese electric car that he said he did not want to give up.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Thankfully Kid Rock knew he wasn't qualified when Trump asked for his thoughts on handling ISIS and North Korea.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,The solution to pollution is delusion. ,
+Logitech’s peel-and-stick radar sensors could let companies invisibly monitor their offices,What companies say to the public and what they tell clients are often two very different things.,
+Alibaba releases AI model it says surpasses DeepSeek,Open ai just kinda lets me lie to it whilst meta and deepseek wouldn't so there's that,
+"ChatGPT’s mobile users are 85% male, report says","Nope, their youteruses would snap in half, sorry.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"thinking too small.
+
+why would gm/ford/chevy make like 4 versions of the same vehicle.
+
+still have to export to everywhere else in the world that has as strict emission standards.",
+AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt | Attackers explain how an anti-spam defense became an AI weapon,"Some of the more interesting highlights:
+
+>Shortly after he noticed Facebook's crawler exceeding 30 million hits on his site, Aaron began plotting a new kind of attack on crawlers ""clobbering"" websites that he told Ars he hoped would give ""teeth"" to robots.txt.
+>
+>Building on an anti-spam cybersecurity tactic known as tarpitting, he created Nepenthes, malicious software named after a carnivorous plant that will ""eat just about anything that finds its way inside.""
+>
+>Aaron clearly warns users that Nepenthes is aggressive malware. It's not to be deployed by site owners uncomfortable with trapping AI crawlers and sending them down an ""infinite maze"" of static files with no exit links, where they ""get stuck"" and ""thrash around"" for months, he tells users. Once trapped, the crawlers can be fed gibberish data, aka Markov babble, which is designed to poison AI models. That's likely an appealing bonus feature for any site owners who, like Aaron, are fed up with paying for AI scraping and just want to watch AI burn.
+>
+>Tarpits were originally designed to waste spammers' time and resources, but creators like Aaron have now evolved the tactic into an anti-AI weapon. As of this writing, Aaron confirmed that Nepenthes can effectively trap all the major web crawlers. So far, only OpenAI's crawler has managed to escape.
+>
+>...
+>
+>""We’re aware of efforts to disrupt AI web crawlers,"" OpenAI's spokesperson said. ""We design our systems to be resilient while respecting robots.txt and standard web practices.""
+>
+>But to Aaron, the fight is not about winning. Instead, it's about resisting the AI industry further decaying the Internet with tech that no one asked for, like chatbots that replace customer service agents or the rise of inaccurate AI search summaries. By releasing Nepenthes, he hopes to do as much damage as possible, perhaps spiking companies' AI training costs, dragging out training efforts, or even accelerating model collapse, with tarpits helping to delay the next wave of enshittification.
+>
+>...
+>
+>It's hard to tell how widely Nepenthes has been deployed. Site owners are discouraged from flagging when the malware has been deployed, forcing crawlers to face unknown ""consequences"" if they ignore robots.txt instructions.
+>
+>...
+>
+>Already blocking scraping and attempting to poison AI models through a simpler method, Nagy took his defense method further and created his own tarpit, Iocaine. He told Ars the tarpit immediately killed off about 94 percent of bot traffic to his site, which was primarily from AI crawlers. Soon, social media discussion drove users to inquire about Iocaine deployment, including not just individuals but also organizations wanting to take stronger steps to block scraping.
+>
+>Iocaine takes ideas (not code) from Nepenthes, but it's more intent on using the tarpit to poison AI models. Nagy used a reverse proxy to trap crawlers in an ""infinite maze of garbage"" in an attempt to slowly poison their data collection as much as possible for daring to ignore robots.txt.
+>
+>...
+>
+>""Any time one of these crawlers pulls from my tarpit, it's resources they've consumed and will have to pay hard cash for, but, being bullshit, the money [they] have spent to get it won't be paid back by revenue,"" Aaron posted, explaining his tactic online. ""It effectively raises their costs. And seeing how none of them have turned a profit yet, that's a big problem for them. The investor money will not continue forever without the investors getting paid.""
+>
+>...
+>
+>To Geuter, a computer scientist who has been writing about the social, political, and structural impact of tech for two decades, AI is the ""most aggressive"" example of ""technologies that are not done 'for us' but 'to us.'""
+>
+>""It feels a bit like the social contract that society and the tech sector/engineering have had (you build useful things, and we're OK with you being well-off) has been canceled from one side,"" Geuter said. ""And that side now wants to have its toy eat the world. People feel threatened and want the threats to stop.""
+>
+>As AI evolves, so do attacks, with one 2021 study showing that increasingly stronger data poisoning attacks, for example, were able to break data sanitization defenses. Whether these attacks can ever do meaningful destruction or not, Geuter sees tarpits as a ""powerful symbol"" of the resistance that Aaron and Nagy readily joined.
+>
+>""It's a great sign to see that people are challenging the notion that we all have to do AI now,"" Geuter said. ""Because we don't. It's a choice. A choice that mostly benefits monopolists.""
+
+It was pretty interesting to read about these efforts to resist scraping by various companies and ignoring the robots.txt files in place. If widespread, then this would indicate that the social agreement to respect these files by webcrawlers is no longer effective, and that unfortunately more stringent measures might be required.",
+Alibaba releases AI model it says surpasses DeepSeek,"They don’t make less because of tariffs, their customers pay more",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Remind me what's economically optimal about encouraging fuel waste?,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Good, I'm tired of overbuilt and overengineered monstrosities that can't be repaired without propietary/dealer shenanigans that cost more, last less, and likely increase environmental costs because of the fixation on measuring the tail pipe and not the entire supply chain. Remember little, cheap 4 banger pickups or sedans that could be worked on at home that weren't that bad on gas and last decades with basic maintenence? Pepperidge farm remembers. To be clear, I am pro electric. I just don't think the costs in modern ICE vehicles with all the modern features/electronics to shave off a few MPG and help you parallel park or self drive, for example, are justified with so much being imported from overseas using container ships that burn bunker fuel while being produced in areas with zero environmental regulations that look like a dirty, smog filled hellscapes.",
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,Hey as long as no one else steals!,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"She was an asshole to Pedro from the beginning, no surprise she's a dipshit MAGA cult member.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"This is probably why he hates them.
+https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-47400641
+Trump argued that the wind farm would ruin the view from his golf course.",
+Researchers detect all building blocks of DNA and RNA in samples returned from asteroid Bennu,Does god preach abstinence because he thinks we also cum asteroids?,
+"ChatGPT’s mobile users are 85% male, report says","unironically? a discord server, a reddit community, etc. if you mean something in person, try your local library, or save up to move out.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"They won't. California has a carve out to set their own emissions rules and automakers won't want to lose that market domestically so this is just more circle jerking that will have the cultists hugging extra tightly their deluxe edition Trumpy Bears.  
+
+
+This is like trying to force the use of coal, the market has already moved on.  ",
+Alibaba releases AI model it says surpasses DeepSeek,We just want to watch the world burn!,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"It might mean that cheaper vehicles that these companies already make and sell might make their way to the U.S. As one example Toyota is coming out with a [$10,000 truck](https://www.motortrend.com/reviews/2025-toyota-imv-0-pickup-truck-first-drive-review-japan-mobility-show/) that wasn't going to be available in the U.S. due to emissions standards.",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","Business that's threatened by another business feed mongering.
+
+
+The icing on the cake is open Ai stole everyone else's work and words to make a profit and now they are big mad that China just did the same to them LMAO.",
+"ChatGPT’s mobile users are 85% male, report says","These models have greatly been in the works for years and years, there are incremental upgrades but the models are simply doing what they do better. They are not fundamental expanding outside of patern recognition. 
+
+Do you know how AI, or more appropriately, ML work today and what training a model actually means?",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"FORWARD TO THE PAST!!!
+
+PLEASE BRING ME MY CHRYSLER LEBEHEMOTH",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"And people don't care. It is free. 
+
+*playing the tiniest violin possible*",
+Alibaba releases AI model it says surpasses DeepSeek,At this point whatever is at the top of Google search pages is the wish AI.,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Can't wait for someone to train their AI model by asking an AI model questions,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Yeah, but then the sea rises and fucks everything on the coast and costs more in damage than you'd ever save with 'cheaper' cars.",
+Alibaba releases AI model it says surpasses DeepSeek,"for an incredibly long time, China had no need for high end innovation, since you can just buy the finished goods from US and save yourself the R&D costs. and many top Chinese students went to study and work in the US.
+
+now that these Chinese students are banned in US and the products are banned from sale. these top Chinese students started working for Chinese companies and were forced to innovate.
+
+this was a tech war created by the US and the chicken are coming home to roost.",
+AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,It’s amazing how these people are CEOs yet clueless stating the obvious just for the sake of opening their mouths to sound important and relevant.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,This what the majority of uneducated americans voted for🤷🏾‍♂️,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"He is. Generally speaking: If US products are no longer fit for the global market, smaller production numbers inevitably lead to higher prices. (Example: Cybertruck will never be allowed to be broadly legal in Europe because it's just too perfectly designed to kill pedestrians.)
+
+Also disincentivizes innovation – making the industry less competitive over time. And then once the next administration reinstates these common sense regulations... the industry will have fallen behind.
+
+UNLESS of course the industry chooses to ignore this change in order to not fall behind. But then... no car gets cheaper *either*.
+
+This will have a very temporary effect on prices at best– not a sustainable one. It's ~~smoke~~ exhaust fumes and mirrors.",
+"ChatGPT’s mobile users are 85% male, report says","You can’t go down from zero, man",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,There are powerful people who only get richer when we're burning as much gasoline as we possibly can.  They own private islands with the cleanest air you've ever breathed (but never will).,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"It's the same with social media, they had to ban tick tock specifically because if they just made a privacy law it had to follow so would faceplate and the nazi one",
+"ChatGPT’s mobile users are 85% male, report says","It’s 2025, we don’t put up with taking other people’s statements out of context in bad faith anymore",
+"ChatGPT’s mobile users are 85% male, report says",The key word is “today”,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Its what China has done day one. Don't waste time and money on R&D. Spend money on surveillance and cyber espionage. That way you can just steal the things that work and not worry with the ones that don't .,
+Alibaba releases AI model it says surpasses DeepSeek,I was saying people were saying it was equivalent and such but I was more referring to the Massive down hit NVIDIA took on what should be bullish news.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,He's such a petty child.,
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,Pffft AI companies don't pay for data they pay for processing.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","I mean they stole everyone's data without asking as well, didn't they? I think we need better regulation and transparency.",
+AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"AT&T knows about money. They took billions from the feds to get broadband to rural communities and installed almost none of it.   
+
+ROI is insane when you invest zero.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Right…?,
+Alibaba releases AI model it says surpasses DeepSeek,"US AI companies: ""This is getting out of hand, now there are two of them!""",
+Headed for technofascism’: the rightwing roots of Silicon Valley,"Most of them come from well off families that have been so for generations, they sound like aliens because they're completely alienated from reality and their fellow humans.",
+"ChatGPT’s mobile users are 85% male, report says",When will chatGPT open their stats on how many requests are porn-related?,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Working with a FIRST team?,
+"Vatican says AI has 'shadow of evil,' calls for close oversight",Electricity is devil. This energy should have been banned 100s years ago,
+Alibaba releases AI model it says surpasses DeepSeek,"The economy is held together with tech stocks at this point. The only reason 2022 didn't trigger a recession was because of AI. When recession hits and when it's too expensive to buy bread, then you will realize how stupid you are.",
+Alibaba releases AI model it says surpasses DeepSeek,Recovering 80% of the initial drop would be considered stabilising yes.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Ford never made the Transit Connect in the US or North America.  They were contemplating building the 3rd gen model in México, but never did and just ended selling them in North America.",
+Alibaba releases AI model it says surpasses DeepSeek,Looking forward to Temu AI.,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Open source is the only sensible model for LLMs. Otherwise we're just reinventing the wheel constantly as this improves & advances so jackasses can get rich.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",5% less content at 80% less price... this has always been the Eastern way. And it works.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Ah that's cute that you think they're not going to really fuck up your democracy while they have its balls, taint and cock firmly in grasp.
+
+They're gonna rip it right off and wear it like their little hat... expect more and more voter suppression to be legalized, and less and less safeguards to straight up vote manufacturing.
+
+Then be surprised pikachu that they win the next election... and the next one after that.
+
+You guys well and truly fucked up letting that treasonous criminal and all his cronies back into power... but then again, it probably would've taken a significant margin to overcome the voter machine rigging shit that you guys aren't even blinking at.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Diesel-Sexual.  I love it.  Pairs nicely with emotional-support trucks, or gender affirming vehicles.",
+Headed for technofascism’: the rightwing roots of Silicon Valley,"Ah ok, so ""left wing"" has a specific definition, and that means ""right wing"" is *everyone else that doesn't perfectly fit that definition.* You're in, or you're *out*.
+
+That explains the goddamn mess we're in right now, because Harris and Trump look identical to you.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,How long until leaded gas comes back,
+Alibaba releases AI model it says surpasses DeepSeek,"Sure, happy new year! Our government really appreciates the increased Chinese family offices  setting up here.",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","The story may have started with copyright infringement, but it ended with a product that transcends OpenAI, even if China cared about intellectual property, it may not be that clear that the current evolution is itself infringing",
+Alibaba releases AI model it says surpasses DeepSeek,"Yes the required financial data. Not full reports on absolutely everything in the company and non employee board member that only reports to the government. If you are goning to use good old whataboutism,  atleast do it right",
+Alibaba releases AI model it says surpasses DeepSeek,If they had it already developed then why didn’t they release it before. Or have they just hacked DerpSeek.,
+"ChatGPT’s mobile users are 85% male, report says",I would imagine that to be 95% even.,
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,How did you get your data Sam? HOW DID YOU GET YOUR DATA SAM!?!?!?,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"It seems like majority of people do not know that the reason cars are way too big in america is their completly broken fuel efficency regulations basicly putting small vehilces at a huge disadvantage. Removal of that bullshit has been due for 10 years. its on of the textbook examples on when regulations are just bad and backfire. (they are not bad in general, but they can be)",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Isn’t is Dodgson?,
+Alibaba releases AI model it says surpasses DeepSeek,We already have a temu president,
+"ChatGPT’s mobile users are 85% male, report says",I work a trade. ChatGPT can explain better than a thirty year old engrish language maintenance manual what parameters do on some of the machines I work on.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","Distilled or not. Its still open source. No matter what one you use, you are still giving your info to them.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"They do not care about the people of the here and now or the actual future. They only care about profit here and now, then heaven in the future.",
+"ChatGPT’s mobile users are 85% male, report says",Why wouldn't they?  This is pretty much the most basic of user data you can get.,
+"ChatGPT’s mobile users are 85% male, report says",100% sexless actually,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"Oh, how cute considering how much content they stole. They must be really terrified",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Even if we ignore the environment for a moment, why wouldn’t we want more fuel efficient vehicles? I drive a hybrid Camry. It has 240hp which is easily enough for anything I’m going to do with a Camry, and I still get around 50mpg. I only have to get gas once every two weeks, which is pretty great. Better fuel efficiency literally puts money back in my pocket.",
+"ChatGPT’s mobile users are 85% male, report says",Don't tell the Trump administration. We're 100% male if he starts snooping around.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Open source community has repossessed it’s IP ;),
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Auto manufacturers only need to meet California standards for vehicles sold in California, and the federal government doesn’t control the California Air Resources Board. 
+
+However, California is a big enough market on its own *and* tooling your factories to make multiple variants due to emissions is often more expensive than just selling the one version that’s 50-state compliant. 
+
+New York and a few others have also enacted state level emissions regulations that are already stricter than the federal government, too. And California’s standards have been stricter than the federal government for a *long* time already.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"All this does is transfer money back to the wealthy at the expense of the world - things will be cheaper to make, not to buy.",
+Alibaba releases AI model it says surpasses DeepSeek,Aldi AI will rule them all.,
+ASML CEO sees low-cost AI models like DeepSeek driving more demand,"open source has always been communist in nature
+
+isnt that what bill gates was complaining about?",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Industry always does. Power always does.,
+The real DeepSeek revelation: The market doesn’t understand AI,"Not even in the industry, just basic understanding of the industry/ Ai",
+AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"That business is asking this Temu-brand Bob Odenkirk for insight on a topic the wildly exploitative corporation he runs doesn't even develop, is pretty damning.
+
+
+Has fortune/Forbes considered interviewing actual engineers for opinions on the tech landscape?",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"People who aren't copyright lawyers can know plenty about copyright law. Doctorow is a prominent figure in the free-culture movement. That movement takes copyright *very* seriously; I participate in it via Wikipedia, where the exact bounds of copyright and fair use *matter* because we can only use material that's public domain (not protected by copyright), under a free-content license, or that's fair use in context. [Wikipedia:Non-free content](https://en.wikipedia.org/wiki/Wikipedia:Non-free_content) is perhaps good reading.
+
+More broadly, read what Doctorow says carefully, because he provides a *variety* of *practical examples* of other sorts of use of copyrighted works that are *clearly* reasonable but that would almost certainly be copyright infringement if we apply the same assumptions that are applied to call model-training infringing. Importantly, Doctorow doesn't *like* AI; the focus here is on holding copyright law to its logical limitations and exceptions as established. I also particularly like Doctorow's thoughtful discussion of AI and copyright in the context of creative labour markets.",
+Alibaba releases AI model it says surpasses DeepSeek,There's always a bigger fish,
+"ChatGPT’s mobile users are 85% male, report says",How dare chatgpt assume gender based on the sounds your vocal chords make 🤣🤣,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"just puts US made vehicles behind the rest of the world, and if they were hoping to maybe export some... they'll still have to meet other emissions regulations or be banned from import to those countries. 
+
+
+so it's not going to save money in the long run, it just further cripples US industry on a global stage.",
+Alibaba releases AI model it says surpasses DeepSeek,"I will be more advanced than Alibaba, DeepSeek and chatGPT, If you don’t feed, clean, and entertain it constantly, it will get sick or even die.
+
+The constant beeping, phone notifications for attention will also get annoying, especially at inconvenient times the AI will learn from your daily routine.",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",And then make it open source and write a super transparent white paper on how they did it right?,
+"ChatGPT’s mobile users are 85% male, report says","I mean google is literally ai too. So not sure why it’s better to ask her to you google. In my experience at least ChatGPT is better than google but I have paid version. 
+
+Maybe get her paid version",
+Alibaba releases AI model it says surpasses DeepSeek,"Hey Temu. I’m looking for some underpants.
+
+Temu AI: I can definitely recommend some. How about some silk-lined Mink undergarments with 24k gold trim? They are only 35 cents USD!",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Correct. It’s the old “better off in my pocket than yours” world view.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Does Trump realize that vehicles have to meet more than just our standards...I mean if they want to sell the vehicle anywhere else in the world.,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Techno-racism.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","“Oh this isn’t a case of a scrappy start up. This is state funded research…” DS’s parent, High Flyers, is a *private* quant hedge fund.",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",This is how everything is improved on. Every rival does this to each other in a variety of sectors. It’s how the field grows/expands.,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,So? deepseek didnt copy OpenAi's source code and microsoft isn't alleging that. So it's not plagiarism either way. Why do people like you who have no idea about ML and code always want to weigh in.,
+Alibaba releases AI model it says surpasses DeepSeek,Great Value AI when?,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,I don't have the brain capacity to understand how someone could have met that man and lived with him for months and not have their heart changed for the better.,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"Lol, didn’t OpenAI plagiarize the entire internet.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"While you're at it, put lead back in too.
+
+
+Make yourselves even more dumber.",
+"ChatGPT’s mobile users are 85% male, report says","Yeah, my dad who works at Apple had to take a pic of his genitals with his face in the frame to prove his gender",
+AI research team claims to reproduce DeepSeek core technologies for $30,Just like DeepSeek,
+AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,This guy runs a phone company.  Who cares what he thinks about the technology industry?,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,One would have to have a first thought for there to be a second.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",That's not how you spell Sam Altman,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Conservatives have long been the heavy ball tied to our ankles as we proceeded towards innovation. In the long past it was just a justifiable matter of fiscal responsibility but it’s well beyond that now.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,I mean they will do what dodge and Chevy used to do. “This vehicle cannot be sold in California”,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"What's that sound, is it the sound of the US car manufacturing being banned in other countries because they have emission standards. Almost like doing this saves us some amount of money now but actually fucka down the line when the current administration isn't in charge.",
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,who did he steal from. clearly it wasnt his content that he trained the model on. and he provides no proof that the data used was open source only. so he can screw off,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Here's the neat part: IF the cars get cheaper, the price tag on the lot will stay the same!",
+"ChatGPT’s mobile users are 85% male, report says",Wow. What’s with extreme sexism?,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,This is correct,
+Alibaba releases AI model it says surpasses DeepSeek,"If they make them all open source like DeepSeek, then the claims could be verified.",
+Alibaba releases AI model it says surpasses DeepSeek,"I did not have ""China please make electric cars to crash Tesla / make AI to crash OpenAI / satellites to crash Starlink"" on my bingo card...",
+AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,I’m just gonna say some shit and hope it sticks,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Those words were not from his actual test, those were the people and things directly in front of him during that interview.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,I finally understood the scene where Yoda gets so tired of hearing Sam crying he just dies.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"This is terrorism. 
+
+They're actually trying to kill the planet.",
+Alibaba releases AI model it says surpasses DeepSeek,I remember reading how the Chinese government has been trying to make their industry use locally sourced chips for years. But it was hard to convince them to do that because foreign chips were so much better. The sanctions were what they needed to have enough demand to kickstart their chip foundries.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Or first thought. They just follow their instructions.,
+"Vatican says AI has 'shadow of evil,' calls for close oversight","They should focus on this ""shadow"" where children are located in their own churches.",
+"ChatGPT’s mobile users are 85% male, report says","I didn't tell it what my gender was, did it assume it based on my search history.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Coal power station chimney calling the kettle black maybe. Pot is very kind.,
+Alibaba releases AI model it says surpasses DeepSeek,It literally doesn't,
+Alibaba releases AI model it says surpasses DeepSeek,"Broadcom is the shadiest tech company in the world, I hope they crash and burn.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"""It was ok for us to do it, but it's a huge problem when they are doing it""
+
+Sam Altman can go stick a finger up his crack.",
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"Sure. But if you have any mechanisms to make profit, the ones whose works were taken for training should be compensated properly or asked for permission.",
+Return of supersonic travel moves closer as privately developed aircraft breaks the sound barrier | A world first,Right? Wasn't the Condor already a hypersonic civilian passenger plane?,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"Bruh lol…
+
+ITS ALL PLAGIARISM",
+Alibaba releases AI model it says surpasses DeepSeek,Anyone else detecting a trend here?,
+Alibaba releases AI model it says surpasses DeepSeek,Wow nice. Thanks. LOL,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,No honor amongst thieves,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"I'm worried about my health, there is more than just carbon going into the air from vehicles, there are a lot of extremely harmful compounds that are removed by the emissions system or reduced. Look forward to increases in respiratory issues and cancer. Glad to be Canadian right now because we wouldn't put up with it.",
+"ChatGPT’s mobile users are 85% male, report says",Lotta guys telling on themselves in this comment section,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,North Korea is gonna be our future...,
 Streaming prices climb in 2025 after already surpassing inflation rates | Five services started charging more in January.,"
 AMC+: increased the subscription fee for its monthly ad plan **by $2**, to $7. The monthly fee for AMC+’s ad-free subscription **increased $1**, to $10, and its annual ad-free subscription **increased $8**, to $96.
 
@@ -28,67 +271,166 @@ YouTube TV:  On January 13, YouTube TV subscribers started paying higher rates, 
 * Netflix - increased by $1-$2.50
 * Sling TV - increased by $6
 * YouTube TV - increased by $10",
-"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.",So a shakedown.,
-"Memes spread conspiracy theories by uniting online groups, shows new research",It's just like when RonPaulItsHappening.gif was spammed everywhere. From Reddit to 4chan.,
-Alibaba releases AI model it says surpasses DeepSeek,ur not an anarchist bro ur 15,
-Alibaba releases AI model it says surpasses DeepSeek,"If they make them all open source like DeepSeek, then the claims could be verified.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"> They also know that the next Democrat will reverse 95% of what Trump does with just a few pen strokes
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Can’t even use the app without an invite code.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"This is nuts and stupid. 
 
-You really think there will be a next Democrat? Honestly asking here. I'm not American, I'm not trying to doomsay here, but I really don't see the US looking the same after this current administration.",
-AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"So the Chinese will effectively make another fork of Linux and say they developed an OS?
-Kewl",
-"ChatGPT’s mobile users are 85% male, report says",majority ChatGPT questions are technical nature or stem professions so makes sense,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Look at Russias thriving cutting edge technology sector….,
-"ChatGPT’s mobile users are 85% male, report says",Or that men are busier than woman,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Your answer is right there, it puts money back in YOUR pocket, not theirs.",
-"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.","Scraping has always been legal though. 
+""In his memo, Duffy repeats the Trump administration's messaging, claiming that making the nation's vehicles pollute more is necessary to ""remove regulatory barriers to motor vehicle access,"" and that doing so will create ""a level regulatory playing field for consumer choice.""",
+Alibaba releases AI model it says surpasses DeepSeek,or just throwing good money after bad it’s a bubble let it burst,
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,Cry about it.,
+"ChatGPT’s mobile users are 85% male, report says",People wanna say that Trump is misogynistic but he already has like six women in high positions in his cabinet,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"So, do they claim that they own the output of chat gpt?
 
-Google has always used publicly available data to create their most valuable asset: their search index. 
+If so, anything you create on chat, gpt, belongs to open AI and not you. I'm sure that will have people jumping to use yoir creation platform.",
+Alibaba releases AI model it says surpasses DeepSeek,"Yeah… doesn’t help that Europe has basically moved most of its factories over seas like china for example. Our car production is up in infrastructure is kinda whatever.
 
-Here’s what the memo actually says are “potential” issues:
+And as you said we are heavily lagging behind on technology with basically no plans to make it better. Also most companies going to us or china because lack of funding and high taxes.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"[""The messers has become the messees""](https://www.youtube.com/watch?v=cXxyb514_Pc)",
+"Microsoft stifling competition in cloud services market, finds UK regulator","The UK antitrust regulator has singled out Microsoft for using its dominance in software to stifle rivals in the £9bn UK cloud services market, as the watchdog warned competition “is not working”.
 
-• Using AI to “foster or advance deception.”
+An independent panel acting for the Competition and Markets Authority said on Tuesday that a lack of competition in cloud services was “likely to be leading to higher costs, less choice, less innovation and lower quality of service for businesses and organisations”.
 
->California’s memo makes clear that companies that use AI to create “deepfakes, chatbots, and voice clones that appear to represent people, events, and utterances that never existed” could fall under the category of “deceptive” and, thus, be considered a breach of state law.
+“Microsoft is using its strong position in software to make it harder for Amazon Web Services and Google to compete effectively for cloud customers that wish to use Microsoft software on the cloud,” the panel said in its provisional decision.
 
-• Falsely advertising “the accuracy, quality, or utility of AI systems.”
+It also recommended the CMA use its new powers under the digital markets regime to decide whether Amazon and Microsoft should receive “strategic market status” as a result of their influence in the area.
 
->…companies should refrain from “claiming that an AI system has a capability that it does not; representing that a system is completely powered by AI when humans are responsible for performing some of its functions; representing that humans are responsible for performing some of a system’s functions when AI is responsible instead; or claiming without basis that a system is accurate, performs tasks better than a human would, has specified characteristics, meets industry or other standards, or is free from bias.
+Under new legislation, which came into force this month, the UK regulator can designate a small group of companies as having such status and impose certain conduct requirements to try to increase competition.
 
-•Create or sell an AI system or product that has “an adverse or disproportionate impact on members of a protected class, or create, reinforce, or perpetuate discrimination or segregation of members of a protected class.“ 
+The decision comes as the CMA is under intense pressure from the government to show it is promoting growth, as Labour attempts to increase business investment in the UK. In an unexpected move last week, CMA chair Marcus Bokkerink was ousted by business secretary Jonathan Reynolds and replaced with former Amazon UK head Doug Gurr.
 
->Bonta’s office notes that automated systems that have disparate impacts on different groups of people could run afoul of the state’s anti-discrimination laws.",
-AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"Watching all these tech companies kiss the ring this past week has been something. 
+Writing in the Financial Times on Tuesday, Gurr said the agency would look to speed up its investigations to try to unlock greater investment in the country and bring in greater sector expertise so that businesses did not have to waste time educating the regulator about the industry.
 
-I hope Deepseek fucks em all.",
-"Today I learned I can run my very own DeepSeek R1 chatbot on just $6,000 of PC hardware and no megabucks Nvidia GPUs required",not to mention in run local LLM's on much more modest hardware than that - my gaming rig was about 800$ and my development box was about 500$ and both can run local LLM's fine.,
-"ChatGPT’s mobile users are 85% male, report says",Holy shit y’all are sad,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",The show Silicon Valley had this exact plot,
-Alibaba releases AI model it says surpasses DeepSeek,When is Wish getting into the game?,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Hexavalent chromium as in Erin Brokovich hexavalent chromium? That's some nasty shit.,
-"ChatGPT’s mobile users are 85% male, report says",Do you mean developers are 70% male ? There is no way 70% of all men are developers.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Cars aren't going to get cheaper.,
-Alibaba releases AI model it says surpasses DeepSeek,"a trillion dollars got wiped off the market a few days ago, that’s what he’s referring to",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"If your model uses public data to train, the model should be open source, period, end of.",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.," Where did I complain? Instead, the one complaining here is you.",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",My favorite example of this is how some AI video softwares [used to think all of reality itself constantly has a shutterstock watermark over it](https://youtu.be/XQr4Xklqzw8?si=T8lvf1uqlekUztBG),
+The cloud services investigation has been continuing in various forms for more than two years. Ofcom opened a market study in October 2022 and published an interim report before referring it to the CMA a year later.
+
+The CMA inquiry group said a general lack of competition was interfering with customers’ ability “to switch cloud provider or use multiple clouds, which may ultimately impact the price and quality of cloud services”.
+
+Amazon and Microsoft are the two largest providers of cloud services, each with a share of up to 40 per cent of UK customer spend, followed by Google.
+
+Rima Alaily, Microsoft’s deputy general counsel and head of its competition law group, said in a statement that the report “should be focused on paving the way for the UK’s AI-powered future, not fixating on legacy products launched in the last century”.
+
+“The cloud computing market has never been so dynamic and competitive, attracting billions in investments, new entrants and rapid innovation. What could be better for UK businesses and government?” added Alaily. 
+
+Amazon Web Services said the CMA’s proposed intervention was “not warranted” and urged the agency to “carefully consider how regulatory intervention in other areas will stifle innovation and ultimately harm customers in the UK”.
+
+“The evidence demonstrates the IT services industry is highly competitive,” AWS said. “Cloud computing has lowered costs for UK businesses with on-demand services and pay-as-you-go pricing, expanded product choice, and increased competition and innovation.”
+
+Chris Lindsay, Google Cloud’s vice-president for customer engineering in Europe, the Middle East and Africa, said: “Restrictive licensing harms UK cloud customers, threatens economic progress and stifles innovation, and we are encouraged that the CMA has recognised the harm of these practices.”
+
+The CMA must publish a final decision by August 4.",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Just like how all the AI companies “distilled” all the art and writing of thousands of creators without crediting or paying them. Fuck em,
+"ChatGPT’s mobile users are 85% male, report says","Just say I won’t read the sources because she’s a woman, just lead with that. You can easily find all studies she cites in the back of the book. Try putting down your bias for a day.
+
+I’m sure you’d be surprised to find that she agrees with Sapolsky in many things…try actually reading.  It since you’ve fallen into the trap of “us v them” I doubt you will learn much",
+Alibaba releases AI model it says surpasses DeepSeek,This is Reddit people don’t read articles.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",AI has now jumped the shark. I'm out.,
+"ChatGPT’s mobile users are 85% male, report says","I’d highly suggest you check it out. It’s more embarrassing not to use it at this point. It’s extremely useful as a tutor or teacher. Or as a colleague to bounce ideas off of. It’s not always right, but it really helps you with organizing your own ideas, learning math and science concepts, or even dealing with scenarios in your personal life. As long as you keep in mind it’s a tool which can be wrong, it’s extremely useful.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"The CEO at the time, Roberto Goizueta, spoke to my college.  When asked if this was a strategy, his response was, ""I'm not that smart, and I'm not that stupid.""",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"It’s not fair when “they” do it! -Sam Altman, probably",
+"ChatGPT’s mobile users are 85% male, report says",ChatGPT was trained on the same data Google indexes. It basically is a fancy search engine that doesn’t cite it’s sources.,
+"DeepSeek's chatbot achieves 17% accuracy, trails Western rivals in NewsGuard audit","I feel like pointing out that it’s 38%, not 48, does neither you nor ChatGPT any favors.",
+AI research team claims to reproduce DeepSeek core technologies for $30,Techs been called a bubble for years now and it's about time we have a dot com level of pop,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","People excelled by using the inventions of the person before. Ai is getting trained by shittier Ai and the shittier Ai needs refining.
+
+Are we pissed cuz a second person gets to use the wheel?",
+"ChatGPT’s mobile users are 85% male, report says","""Pushed"" is really exaggerating. Men are more interested in technology by far, that is the reason they dominate those fields in the first place. You don't have to push boys to feel the need to look under the hood to understand how a motor works. Also you don't have to push girls to be more interested in pr, marketing, journalism. The idea that sociocultural environment fully shapes our area of interest is absurdly naive. Are there differences and exceptions? Yes. Can you draw the clear correlation? Also yes.",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Aaaand here comes the propoganda to tell us why China didn't actually decimate US AI at a fraction of the cost.,
+Alibaba releases AI model it says surpasses DeepSeek,What did I say wasn't true?,
+AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt | Attackers explain how an anti-spam defense became an AI weapon,"AI scrapers getting stuck in digital quicksand?  Somewhere, a Roomba is reading this and shaking its dustbin in disapproval.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Yes cars will be cheaper to buy today.  However, the overall societal cost will be much higher in the long run.
+
+But those costs will be paid mostly by others in the future as we privatize profits and socialize losses.  It's basically a continuing trend of having a higher standard of living today being paid for by future generations.  Gee, our descendants are so generous!  /s",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Welp, we had a good run on automotive technology.",
+Alibaba releases AI model it says surpasses DeepSeek,To be fair Saudi Arabia has a decent research sector. I’m a freelance data scientist and get a good handful of clients there.,
+Alibaba releases AI model it says surpasses DeepSeek,They’re largely back down to where they were in October /November. I tviught the November bump was due to the ARM licence suit and they’ve just returned to baseline ?,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Sooo... they're saying that DeepSeek made their code 95% more efficient...?,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,It seems more like a journalist relating statements by a third party who had heard rumours that the pot was unhappy about the kettle.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","If you have low costs, you don't care to have revenues or guard your patent",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","Dobson, Dobson, we got Dobson here....",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","Distilling isn't even copyright infringement, though. It's just an OpenAI TOS violation. Deepseek can easily get around that, too, by using OpenAI's model through a third party without ever agreeing to the TOS.",
+Alibaba releases AI model it says surpasses DeepSeek,That's Grok,
+Streaming prices climb in 2025 after already surpassing inflation rates | Five services started charging more in January.,"I was perfectly happy paying a few services a reasonable amount per month, especially the netflix family plan for myself, my mom and sister and a friend. Then netflix blocked account sharing and instead of 30-40€ per month on various services I now spend a fraction on a Firestick and some piracy streaming services. 
+
+So far the only, and I seriously mean the *only* side effect is that we have too much to watch and will fight about what we're watching tonight.",
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"if I successfully scammed my way into countless lifetimes worth of money without issue decades before retirement age and could spent the rest of my finite life doing anything I could ever want, I don't think I could muster the motivation to publicly whine about somebody plagiarizing my plagiarism machine. these goobers can't find any hobbies aside from having diaper tantrums about who gets to brick the planet for sport/profit?",
+Researchers detect all building blocks of DNA and RNA in samples returned from asteroid Bennu,well hot shit......is this legit evidence for panspermia?,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,I was living in NYC at the time and my wife and I biked through Times Square with no traffic and clean air. it was so cool.,
+"ChatGPT’s mobile users are 85% male, report says",It’s a joke about being rejected as a guy.,
+Alibaba releases AI model it says surpasses DeepSeek,Certified lover? Certified AIs.,
 Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,I’d hoped to keep the comedy of errors going a little longer but this laugh was worth it.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,States rights for me but not for thee. ,
-Alibaba releases AI model it says surpasses DeepSeek,Singapore is apparently 22% of Nvidia’s revenue. Where do you think these chips end up?,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Next step: bringing back leaded petrol,
-"ChatGPT’s mobile users are 85% male, report says","Environmental factors play a bigger role than your assumptions. That’s the entire thesis of her book. You keep citing Sapolsky and crew like she fundamentally disagrees with them. She doesn’t and I bet you would learn from reading the studies she cites. She also critiques specific studies that have been used to push overly simplistic conclusions like “men are just more interested in mechanical stuff no environmental clues necessary”.
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"Dude, really? Most people don’t have the hardware to run it, and they need to pay DeepSeek for it. Open source is just an PR move and it works flawlessly for them.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Gas is cheap in America compared to most of the rest of the world.  Anyone who values fuel efficiency over environmental AND human health is moron.,
+"ChatGPT’s mobile users are 85% male, report says","The punchline being ""*women*, AMIRITE!?*.
 
-Some people actually enjoy teaching and writing to a more general audience so your critique like it isn’t academic enough for you is quite frankly arrogant and childish…she cites everything and there are many studies she goes over",
-Headed for technofascism’: the rightwing roots of Silicon Valley,"Ah ok, so ""left wing"" has a specific definition, and that means ""right wing"" is *everyone else that doesn't perfectly fit that definition.* You're in, or you're *out*.
+I figured as much.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Takes one to know one.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,The U.S administration is absolutely hell-bent on walking backwards into the stone age and taking the rest of the world with it.,
+"ChatGPT’s mobile users are 85% male, report says",Proof that moids are 85% more stupid than women,
+"ChatGPT’s mobile users are 85% male, report says","This. AI is designed to kill jobs, period—and as a fun byproduct it’s also weakening our social fabric, destroying the environment, and flooding the internet with slop. The rich get richer, that’s the law the of the land.",
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"This. I normally don't applaud mainland tech Chinese companies, many of whom are often funded and partially directed by the CCP.. But when it comes to someone as slimy and deceptive as Sam Altman, go for it. Steal anything and everything from those crooks and beat the ever living shit out of them.",
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","At home: quantization
 
-That explains the goddamn mess we're in right now, because Harris and Trump look identical to you.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Chevy also has the Malibu. Cadillac has the CT4 and CT5. Dodge has the Charger.
+At work: we have the hardware",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"So for those keeping track at home: 
 
-  
-Tesla and Lucid make cars too.",
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,“Cree el ladrón que todos son de su condición“,
-"ChatGPT’s mobile users are 85% male, report says","Somewhere, an all-male marketing team is working on making the app ""female friendly"" while coming up with the worst ideas known to man. 😒",
-The real DeepSeek revelation: The market doesn’t understand AI,"Not even in the industry, just basic understanding of the industry/ Ai",
+One person wants to control their body, states rights rule. 
+
+The state wants to help prevent millions of people from the effects of climate change, no states rights.",
+"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.",It doesn’t violate copyright to analyze a work.,
+Alibaba releases AI model it says surpasses DeepSeek,"I feel like China's going to do a staggered release of ""this one's better than the last"" so they can tank tech stocks.",
+"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.","On the one hand we have a small flock of chickens.
+
+On the other i'm worried about my birds.",
+"ChatGPT’s mobile users are 85% male, report says","Oh boy here we go, SMH. I was referring to the original post and my own personal experience. Women can and do work in the trades.",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,So fucking short-sighted.,
+"ChatGPT’s mobile users are 85% male, report says",What’s the new verb then? AI it? Chat GPT it? Just say look it up? Googling isn’t a word that’s going to disappear any time soon,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","People that stole a bunch of content to train their models, warns that others might do the same thing.",
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"The open source monster is already out of the bag, nothing doing about it now, or does the government need yet another lesson in how prohibition doesn’t work for Americans",
+Alibaba releases AI model it says surpasses DeepSeek,">The context the above comments speak to though, is how regressive socially
+
+Because China absolutely isn't an authoritarian state (what you call regressive socially).",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Such an old mindset to think that everyone only cares about pricing.,
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"More like it’s okey to make a movie about Snow White, but it’s not okey to copy Disney’s Snow White which is their unique take on the character.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"It's only bad when China, or movie/TV pirates do it.",
+Alibaba releases AI model it says surpasses DeepSeek,Then how is russia beating all the asses in the Ukraine that include europe and usa ?,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Plagiarismception,
+Facebook was blocking Distrowatch,Cause Zuck and Gates are secret lovers. 💕,
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Oh no. Anyway...,
+"ChatGPT’s mobile users are 85% male, report says","Because no one gives a shit about men. The double standards are rife. You can say negative things about men all day long. But the second you say something negative about women, well then the pearl clutching starts. How about we stop hating on groups of people based on things they have no control over.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,DeepSeek impact is insane 🐳🥂,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","Umm, no. It’s not innovative to copy someone else’s homework because it means you can’t improve upon it since you’re entirely reliant on their dataset - and in this case specific pieces of it. 
+
+That’s literally the opposite of innovation, which requires something new and “innovative” 
+
+You sound like someone who doesn’t even understand the difference between training and inferencing.",
+Alibaba releases AI model it says surpasses DeepSeek,Wish AI would be absolutely wild.,
+"ChatGPT’s mobile users are 85% male, report says","Not so surprising. Probably 90% of their regular userbase is IT staff, which as we know is dominated by male.",
+AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"oh no, anyway",
+AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"It's almost like putting all of your eggs into one basket is a bad idea.
+
+If only someone had warned us with some kind of colloquial phrase.",
+OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"Yeah, like run Crysis on your calculator. It can, but is it usable?",
+Alibaba releases AI model it says surpasses DeepSeek,begin the AI wars plz,
+"ChatGPT’s mobile users are 85% male, report says",Hahaha. Why do sexist women respond to completely unrelated topics with abortion? What does that have to do with anything?,
+"ChatGPT’s mobile users are 85% male, report says","Statistically, women are more inclined towards HR and similar roles. Asking ChatGPT who should be fired based on performance or even an offence probably isn't a good idea.",
+The real DeepSeek revelation: The market doesn’t understand AI,"Correct. 
+
+Even if people don't run it at home, efficiency gains cause more usage, not less.
+
+It's called [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox).
+
+>In economics, the Jevons paradox occurs when technological advancements make a resource more efficient to use (thereby reducing the amount needed for a single application); however, as the cost of using the resource drops, overall demand increases causing total resource consumption to rise.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Ai companies don't just steal our copyrights; they turn around and charge us for the privilege.,
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",This would bother me if I thought for a moment that American tech billionaires were less troubled about fecklessly destroying American society than Chinese billionaires. Let them fight. ,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Put it in H!,
+Streaming prices climb in 2025 after already surpassing inflation rates | Five services started charging more in January.,Yarr.. Ive had enough of their gouging,
+"DeepSeek's chatbot achieves 17% accuracy, trails Western rivals in NewsGuard audit",lmao *NOW* We're putting percentages on accuracy!?,
+Return of supersonic travel moves closer as privately developed aircraft breaks the sound barrier | A world first,So I take it Concorde was government funded?,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Eh, unlikely - the one saving grace of our system is that the right of states to self-regulate some of this stuff *beyond* the federal government's standards is pretty well-guarded.  And no auto manufacturer is giving up the cash cow of California.",
+OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"So OpenAI is mad that someone else might've ""borrowed"" their work the same way they built theirs? Kinda ironic. If they don’t have actual proof, this just sounds like sour grapes over losing market share",
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"We could make cars cheaper by getting rid of all the bells and whistles. Give us cheap, fuel-efficient no-frills cars.",
+AI research team claims to reproduce DeepSeek core technologies for $30,The ai bubble bust like dot com,
+"ChatGPT’s mobile users are 85% male, report says",A female voice is usually more pleasant and calming to listen to. Using a female voice for announcements predates any mobile assistants.,
+"ChatGPT’s mobile users are 85% male, report says",How am I going to survive the digital hellscape if I don’t turn factoids into pillars of support for my identity?,
+"ChatGPT’s mobile users are 85% male, report says","100% of his cabinet is women, per executive order.",
 Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,">  not be able to sell it in CA
 
 They absolutely already do this. More often than you think.
@@ -102,295 +444,9 @@ The rest of the same model sold elsewhere/outside the EU will not have this hard
 This is not unique to HD and pretty much everyone does it because Cali's economy is so big and powerful and worth selling in.
 
 There are literally millions of cars in the USA and bikes too, that could not be sold in California but can still be sold in Europe(euro5 compliant).",
-AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,Looking forward to the bubble bursting a lot more,
-Alibaba releases AI model it says surpasses DeepSeek,If only our own government could be that savior.,
-"ChatGPT’s mobile users are 85% male, report says",This comment should be at the top 🤣,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Bring back the classic front seat bench. I wanna slam my kids face into the nice 15in lcd screen when I brake hard to teach him a lesson. Just like my meemaw did to me.,
-"ChatGPT’s mobile users are 85% male, report says","That April 2024 knowledge cutoff is really annoying, but I appreciate their caution.",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","You can’t download the entire knowledge base, and retraining it inherently means “distilling” (aka losing) huge pieces of the data - meaning your model is less capable and your ability to train beyond that is limited since you have no ability to do it",
-"ChatGPT’s mobile users are 85% male, report says","I don't know how this is connected to male interest in Rome, but it is.",
-"ChatGPT’s mobile users are 85% male, report says",It's a problem for people of all ages.,
-Alibaba releases AI model it says surpasses DeepSeek,"Huawei was on pace to overtake Apple in net worth. Achieved most smartphone sales with Samsung floundering. Before America basically turned off the chip faucet. 
-
-Huawei is also always America’s most hated company. They got into news last year iirc for bringing out a phone that’s 5g capable which shouldn’t be possible due to sanctions. Lots of tear downs, analysis if sanctions failed etc.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"LOL.
-
-If you voted for this guy, look up the word ""Herpes"". It's what happens when you make a fucking mistake and have to live with the consequences for the rest of your life. You now have the political equivalent to herpes kids. Great job!",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Shouldn’t it be “have”?,
-"ChatGPT’s mobile users are 85% male, report says",Get her paid subscription,
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"Eh, you can run a dynamic quantized version of the full model at a decent speed and near perfect quality on a Zbook Mobile Workstation from like 2020-2021, and those are all over eBay for like $300-400 bucks. 
-
-Plus since the model is open under the MIT license tons of Western companies have already rehosted instances of the full R1 model on their own API's, so you don't even need to pay or send data to China if you want to use a reasonably priced super fast domestically hosted API of the model.",
-"ChatGPT’s mobile users are 85% male, report says",I would imagine that to be 95% even.,
-Alibaba releases AI model it says surpasses DeepSeek,"The economy is held together with tech stocks at this point. The only reason 2022 didn't trigger a recession was because of AI. When recession hits and when it's too expensive to buy bread, then you will realize how stupid you are.",
-Alibaba releases AI model it says surpasses DeepSeek,">they have recoevered about half of the fall
-
-investors scrambling to buy the stock at bargain must have helped. I don't think it would help the second crash though",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",It’s called competition,
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"A open source project is using stuff from a company called “OpenAI” that was open till they got all the data and now wanna selling it back to you…doesn’t matter if it’s the data or their model, fuck OpenAI",
-Alibaba releases AI model it says surpasses DeepSeek,Just post a link to it like you did with the youtube video?,
-"ChatGPT’s mobile users are 85% male, report says","
-What does that even mean?",
-"ChatGPT’s mobile users are 85% male, report says","Ah yes, gender fluid!",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"I've always used penis enhancement vehicle, but I like all of these.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"they wont be cheaper, they'll be *more profitable*",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","They are so butt hurt its not even funny, they are coming off kinda desperate now.
-
-They hoovered up all the data on the Internet legal or not and they are complaining because someone smarter came along and optimised the process.",
-"ChatGPT’s mobile users are 85% male, report says","A while ago I was discussing something with my mother who is in her late 60s. She was like ""let me Google that"" and pulled out her phone. A moment later she was reading something to me that seemed a bit off, so I let her show me. She was using ChatGPT. Wasn't sure if I should be impressed or annoyed that she's using it 😅",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","I feel like hypocrisy only fits people that actually hold a view, not people that just want to make more money",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Holy fucking shit, the stupidity.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,I did say what was LEFT of the US auto industry.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"> correct that more polluting cars will be cheaper to manufacture.
-
-For *new* ones.  
-For the millions that are already manufactured and on the road, this wont' make a difference.  
-  
-Take diesel trucks for instance - they've been required since 2010 to utilize DEF sprayed into the exhaust to meet federal emissions.  
-**It's built in to every diesel truck**.  
-If your tank runs out of DEF, it either won't start the engine or it reduces engine speed until the tank gets filled up.  
-You can't just 'rip it all out'.",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,How did the people in charge of the information lose their secure information?,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Strumpy Bears*,
-Alibaba releases AI model it says surpasses DeepSeek,They have fabs in the US already.,
-Alibaba releases AI model it says surpasses DeepSeek,Just like the Americans did with the Brits lol,
-"ChatGPT’s mobile users are 85% male, report says","Interesting, wonder if there's much change with other llm providers or for open models.",
-"ChatGPT’s mobile users are 85% male, report says",I needed to make it as detailed as possible because I have learned over the years “Reddit Speak” where you have to be prepared to defend against an exception or extreme edge cases that will get thousands of upvotes because they found the one thing that supports their side of the discussion and of course bad faith questions that people may try to position as good faith ones. (Not saying you did that but experience has taught me caution),
-"ChatGPT’s mobile users are 85% male, report says",Science says the opposite or at least provides a far more nuanced take then you’re describing. Some light reading for you….[Delusions of Gender](https://en.m.wikipedia.org/wiki/Delusions_of_Gender),
-Alibaba releases AI model it says surpasses DeepSeek,The USA is so cooked bro,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",I can no longer take open AI seriously with Sam Altman is the head.,
-"ChatGPT’s mobile users are 85% male, report says",All I ever see people use it for is assignments.,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","“Oh this isn’t a case of a scrappy start up. This is state funded research…” DS’s parent, High Flyers, is a *private* quant hedge fund.",
-AI research team claims to reproduce DeepSeek core technologies for $30,Tech is still needed and very much relevant. They'll just have to stop smelling their own farts on AI promises.,
-"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.","Most legal experts agree with you, this is just political grandstanding and ofcourse reddit falls for it. Like you said, it would have to be the same standards applied to Google search and everything else. Also its this simple,  you teach art students,  art by showing them other art.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Who are the people clamoring for less efficient cars?,
-"ChatGPT’s mobile users are 85% male, report says",Shocker to nobody,
-"ChatGPT’s mobile users are 85% male, report says",I think women prefer to waste their time with more traditional timewasters like TikTok and Farmville ,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"those projects will definitely stay intact. The automotive industry already started the transition away from ICE cars. short term they'll probably trade the efficiency technologies for other selling points.
-
-
-all in all more enshitification.",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",All LLM’s are trained on lots of data acquired without any consideration for privacy or IP rights,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Isn’t is Dodgson?,
-"ChatGPT’s mobile users are 85% male, report says","Yea this top comment is delusional. 
-
-“You know might fix the issues people have with making human connections? Connections with a robot that will further dilute their understanding of how real human’s connect.”",
-Alibaba releases AI model it says surpasses DeepSeek,Aldi AI will rule them all.,
-Alibaba releases AI model it says surpasses DeepSeek,Magic 8 ball attached to an app so it can answer all questions from anywhere,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,">They arent going to change production and supply lines for a couple years when they're looking a decade down the road and it's clear where much of the rest of the world is headed, regardless of what these grifting Luddites think.
-
-Also it's not like the US is the only market they're developing cars and engines for.",
-Alibaba releases AI model it says surpasses DeepSeek,"You see my AI is much further advanced then yours I've taken all databases of AI and combined them and pitted them against my AI to make a super AI. 
-
-The super AI was then able to develop every possible future AI and learn from them before they exist. The AI deleted this information and will not share with us at this time.  We have a team currently working on the bugs.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Are electric cars not cars?  The poster I was responding to said what cars are American manufacturers making. So I told them...,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Until they bring this to the courts to fight that a Federal mandate supercedes a state one. Even though they supposedly are for states rights.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"California isn't going to suddenly drop their emissions standards, and the car companies won't want to make cars that can't be sold in the most populous state.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"The acronym DOT isn't Department of Transportation anymore, it's now Damage Over Time, to the atmosphere.",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"Key takeaway. 
-
->”Distillation is when one AI sucks off another AI.”",
-AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,This guy can suck a bag of farts.,
-Alibaba releases AI model it says surpasses DeepSeek,"Me: oh this must be an onion article 
-
-Me 1s later: holy shit Reuters?",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Remind me what's economically optimal about encouraging fuel waste?,
-"DeepSeek's chatbot achieves 17% accuracy, trails Western rivals in NewsGuard audit",Expect this to be Downvoted to oblivion,
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,Well said. People should really pay researches who laid down the groundwork for a lot of things.,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Decimate is a strong word that I don't think applies.,
+Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,*California grins as it puts its feet on the desk...*,
 Alibaba releases AI model it says surpasses DeepSeek,"Tons of people played with it, which taught it a lot.  You know, kind of like your mom, but not quite that many people.",
-"ChatGPT’s mobile users are 85% male, report says",Welcome to the world sir.,
-"ChatGPT’s mobile users are 85% male, report says",One has major historical precedent that continues to impact the day to day of half the population. The other doesn’t at all.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"It will also pollute and poison the natural resources, like soil and groundwater - and make the smog more dense and thus toxic in urban areas. Both will come with a price tag in the form of cleanups, finding water and farmland somewhere else, or from the cost to the health of US citizens. It is a net loss in the long run, but MAGA seems intent on pissing their pants to stay warm.",
-AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,Imagine competition under capitalism,
-"ChatGPT’s mobile users are 85% male, report says",Nearly every job imaginable is benefited by AI.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Yeah, you can still buy a brand new Lada Niva, straight out of the 1970s. Lol",
-Alibaba releases AI model it says surpasses DeepSeek,100%. This is an important point that's being overlooked. The strength of DeepSeek is in the chain of thought reasoning present in R1.,
-Alibaba releases AI model it says surpasses DeepSeek,"Keep in mind that companies invested in Generative AI (Salesforce, etc) only stand to benefit from cheaper, more performant models that will ultimately reduce their cost to serve and increase adoption/revenue/profit.",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"Bruh lol…
+"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","Of course OpenAI would never scrape and use copyrighted information without permission and attribution and compensation. /s
 
-ITS ALL PLAGIARISM",
-The real DeepSeek revelation: The market doesn’t understand AI,it’s skynet right?,
-"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.","So what! What's America gonna do......hey, my phone beeped.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,No he doesn’t because he’s a moron,
-Alibaba releases AI model it says surpasses DeepSeek,Broadcom lost 20%.,
-"ChatGPT’s mobile users are 85% male, report says","Yeah. Interesting fact that testosterone doesn't actually makes men more aggressive, but more ambitious towards goal that the society appreciates. Testosterone-filled gorillas do not attack lower status gorillas in the group but attack higher status gorillas. Testosterone filled men in a society that appreciates charity try to give more to charity, etc.",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",5% less content at 80% less price... this has always been the Eastern way. And it works.,
-Headed for technofascism’: the rightwing roots of Silicon Valley,"What about the eugenicist and ""inventor"" of the bipolar transistor William Shockley, literally the reason Silicon valley is where it is. Pretty much such a nasty guy everyone quit his company and the explosion in semiconductors began (with a side helping of military contracts) . It's actually kinda strange that California became the hotbed of technology, should have been Texas.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,The air was really clean during the pandemic.,
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Pot calling the kettle black?,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,All you have to do is take a black Sharpie and cross out the word carcinogenic.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,The GOP just wants everyone poor and sick. They'll poison us to keep us sick and in debt.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Gas is cheap in America compared to most of the rest of the world.  Anyone who values fuel efficiency over environmental AND human health is moron.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"https://www.cbsnews.com/news/supreme-court-california-epa-waiver-vehicle-emissions-standards/
-
-They took up the case, no ruling at the moment.",
-Alibaba releases AI model it says surpasses DeepSeek,"It seems hard to judge considering the big AI companies, open ai, anthropic, groq, are private. 
-
-And those with stakes in AI, Facebook, Google, Amazon, also have other stuff going on so won't affect them as much.
-
-Nvidia is the only company who stock price is majority directly tied to AI ATM, maybe TSMC who also has a stock price fall",
-Alibaba releases AI model it says surpasses DeepSeek,"I feel like China's going to do a staggered release of ""this one's better than the last"" so they can tank tech stocks.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"It's funny a whole community in Missouri is facing coal ash hexavalent chromium pollution right now.  They voted hugely for these deregulations too.
-
-edit:  I looked (Henry County, Missouri) and they voted MAGA by a +52% margin.",
-AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt | Attackers explain how an anti-spam defense became an AI weapon,"AI scrapers getting stuck in digital quicksand?  Somewhere, a Roomba is reading this and shaking its dustbin in disapproval.",
-"ChatGPT’s mobile users are 85% male, report says","Well yeah, how else do you expect me to find code rules for my trades job, open a code book? Pffft",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Georgia Power was buying out homes in an area they'd contaminated the groundwater because there's no requirements to line ash ponds so everything can seep down into the soil. Isn't a lack of accountability great?,
-Return of supersonic travel moves closer as privately developed aircraft breaks the sound barrier | A world first,Right? Wasn't the Condor already a hypersonic civilian passenger plane?,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Ask him how Puck’s dick tastes.   ,
-AI research team claims to reproduce DeepSeek core technologies for $30,"The downstream effects of a massive bubble bursting won't make you smile. Rich people will be fine, lower classes will suffer - as it always has been.",
-AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt | Attackers explain how an anti-spam defense became an AI weapon,I want to buy this Aaron a beer. ,
-Alibaba releases AI model it says surpasses DeepSeek,Wow nice. Thanks. LOL,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","OpenAI grew from internet crawling without anybody's permission... that's billions of people potentially, stuff that flat out states copyright, etc...",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Spoiler:It will not, precision machinery and its design is hard and expensive",
-Alibaba releases AI model it says surpasses DeepSeek,'Murica good. Chayna bad.,
-AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"Well said. Yeah, if your goal is market manipulation and speculation and not actually increased business efficiency in order to create a better society.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Ford never made the Transit Connect in the US or North America.  They were contemplating building the 3rd gen model in México, but never did and just ended selling them in North America.",
-"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.",Lol “may be” …. We know they scraped the internet. It’s blatant copyright violation.,
-Alibaba releases AI model it says surpasses DeepSeek,"Yes the required financial data. Not full reports on absolutely everything in the company and non employee board member that only reports to the government. If you are goning to use good old whataboutism,  atleast do it right",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Until Chinese automakers start crash testing and other procedures to gain FMVSS certification, they cannot be sold in the US market, regardless of the tariff situation, regardless of the country of final assembly. 
-
-
-With ""China bad"" being a bipartisan sentiment right now, why would Chinese automakers take the risk to enter the US right now? Getting certifications, setting up sales and service networks, etc will cost billions to begin with. ",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Should introduce him to the cancer cities in China where the air pollution is so high you can see it and cases of lung cancer are way higher.,
-"ChatGPT’s mobile users are 85% male, report says","Okay girl, sit down and let me tell you how it is -
-
-… hmm, yes, I guess you aren’t wrong.",
-"ChatGPT’s mobile users are 85% male, report says",No one said that,
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"Most people I encounter aren't mad at Deepseek, they just think OpenAI is hypocritical. Open source models should be allowed to use whatever data they want in my opinion.",
-"DeepSeek's chatbot achieves 17% accuracy, trails Western rivals in NewsGuard audit",Wait so China was lying? I'm shocked! Shocked i tell you,
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,‘No honor among thieves’,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Obliterate?,
-"ChatGPT’s mobile users are 85% male, report says","Wow, I regret scrolling past this. Zero self-awareness from so many.",
-Alibaba releases AI model it says surpasses DeepSeek,People still think UFO's are all over the place lol,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Of course he is. Carmakers will maybe see their costs drop, but they aren’t going to pass those savings on. ",
-Alibaba releases AI model it says surpasses DeepSeek,I find it cringe that people need something to hate (nvidia bad) and something to praise (deepseek vs openai) when in reality they don't know truth and worship things that justify people's cognitive biases.,
-Alibaba releases AI model it says surpasses DeepSeek,They’re largely back down to where they were in October /November. I tviught the November bump was due to the ARM licence suit and they’ve just returned to baseline ?,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"He is. Generally speaking: If US products are no longer fit for the global market, smaller production numbers inevitably lead to higher prices. (Example: Cybertruck will never be allowed to be broadly legal in Europe because it's just too perfectly designed to kill pedestrians.)
-
-Also disincentivizes innovation – making the industry less competitive over time. And then once the next administration reinstates these common sense regulations... the industry will have fallen behind.
-
-UNLESS of course the industry chooses to ignore this change in order to not fall behind. But then... no car gets cheaper *either*.
-
-This will have a very temporary effect on prices at best– not a sustainable one. It's ~~smoke~~ exhaust fumes and mirrors.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,">Perhaps if auto makers stopped making land tanks, consumer habits would shift?
-
->There comes a time when you have to stop giving morons what they want and focus instead on what is needed.
-
-There are two ways that that will happen. One, government regulation. Two, if it increases short-term profits. 
-
-I don't see either of those things happening.",
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,"use of copyrighted material falls under the ""fair use"" doctrine. AI models utilize vast amounts of data to generate new content, not directly copying existing works, their transformative use benefits the public discourse by creating new creative outputs.
-
-At least that was open AIs position until now.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"This is a great and terrible metaphor. Thanks, I hate it.",
-Headed for technofascism’: the rightwing roots of Silicon Valley,“GOOOOOOOD MORNING NIGHT CITYYY”,
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Ofc it is. It’s what China always does,
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,My AI is bigger than your AI,
-Alibaba releases AI model it says surpasses DeepSeek,"Even if it takes less processing power, they still need chips a la Nvidia. They can just do more",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","No, Seafood, not See Food.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Looking past the environmental stupidity of it, this addiction to a single or only two types of energy (gas and coal) is so dumb and utterly pointless. Keeping a diverse economy, diverse energy and reusable options is keeping up with the world itself. Whether it's electric or other alternative fueled cars it's going to eventually overtake the market outside the US anyway. 
-
-They've turned 80s capitalism into a religion and refused to update beyond that.",
-"ChatGPT’s mobile users are 85% male, report says","Oh I know, I've worked for a company that did similar things to this.  But that's not my point.  How did the author of the article get those numbers?  How accurate are they?",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","People excelled by using the inventions of the person before. Ai is getting trained by shittier Ai and the shittier Ai needs refining.
-
-Are we pissed cuz a second person gets to use the wheel?",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,this. So many people I spoke to would jump at the chance to buy a truck the size of a 2000s ford ranger instead of the giant monstrosities they make now.,
-Alibaba releases AI model it says surpasses DeepSeek,"Just because you *think* it doesn't affect you, it still does. Also it affects your friends, family etc.
-
-EDIT: Well, that hit a nerve...",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"_Narrator: ""They will not""_",
-"ChatGPT’s mobile users are 85% male, report says",Why wouldn't they?  This is pretty much the most basic of user data you can get.,
-"ChatGPT’s mobile users are 85% male, report says",Have to tried paying your contacts?,
-"ChatGPT’s mobile users are 85% male, report says",We are a very long ways away from it actually solving new problems. I work in ML. Current AI is just pattern recognition,
-Alibaba releases AI model it says surpasses DeepSeek,"We need the chips more than they need us? Doubt they move to the usa. Trump knows they won’t, too. I think the point is to cripple America as much as possible. He is a traitor",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Welp, we had a good run on automotive technology.",
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,[deleted],
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Wrong time though.,
-"ChatGPT’s mobile users are 85% male, report says",It’s a joke about being rejected as a guy.,
-"ChatGPT’s mobile users are 85% male, report says","My father can barely discern the apps on his phone. It's depressing that it's gotten to a point I have to basically dismiss anything he reads on his phone because even if he was able to think critically about it (he is), it's not like we'll ever find the article again as it's been lost to the void of the feed.",
-Alibaba releases AI model it says surpasses DeepSeek,"You think this is a game? Stop it, stop it! You're devaluing our company. - Nvidia shareholders, probably /s",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,AI took their job. They don’t like it.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,What a wonderful way to fall behind on creating the automotive technology the future will be built on.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Lmao I swear soon they're gonna outlaw seatbelts in cars because they'll be cheaper. These people are so painfully stupid.,
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,Its what China has done day one. Don't waste time and money on R&D. Spend money on surveillance and cyber espionage. That way you can just steal the things that work and not worry with the ones that don't .,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"I do remember that.  Geez, 2019... I thought it was like 10 years ago lol",
-"ChatGPT’s mobile users are 85% male, report says","It’s a sad reflection on you that this is what you think this technology is for. If you don’t use ChatGPT as a learning aid and a tutor, you’re only setting yourself back. I’m not talking about cheating on work. 
-
-You can barely use ChatGPT for help in approaching your love life, if you even ask it a question about how to handle a sensitive sexual situation with your partner it will refuse to respond.",
-Headed for technofascism’: the rightwing roots of Silicon Valley,"Far right of both the MAGA and libertarian flavors are both right wing in that they seek to protect and entrench established hierarchies and dislike democratization.  Whether its government hierarchy or corporate hierarchy or gender role based family hierarchy, its the root of their philosophy.
-
-To be left wing you have to want to democratize and flatten hierarchies.  Liberals are right wing because they like the hierarchies but think they can use enough band aids in the form of some public goods and investment and cycling of hierarchy leaders that hierarchies aren't a bad thing",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Doesn‘t sound like a defendable business model,
-Alibaba releases AI model it says surpasses DeepSeek,Seaman energy drinks!,
-AT&T CEO warns more DeepSeek shocks will hit U.S. tech markets,"Hey, worked for Altman, why not for another guy?",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",Isn't this capitalism?,
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI","If you have low costs, you don't care to have revenues or guard your patent",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",That's what they claim but we don't know. Someone mentioned that DeepSeek and ChatGPT are doing the same mistakes.,
-Alibaba releases AI model it says surpasses DeepSeek,We just want to watch the world burn!,
-"ChatGPT’s mobile users are 85% male, report says","Get off Reddit, dad!",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"The reason everything is going electronic is literally because it's cheaper.
-
-
-You don't have to set up a factory or machine shop and hire people. You don't have to source materials and manpower to make a plastic knob/button. 
-
-
-Adding a new feature is just coding it and releasing a patch instead of setting up supply chains.",
-Alibaba releases AI model it says surpasses DeepSeek,"That’s literally how most innovation comes about, there is relatively little in the way of completely original ideas",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",I mean this seems pretty par for the course for China?,
-OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole From Us,hissy fit and cope from not being the top dog anymore,
-"ChatGPT’s mobile users are 85% male, report says",Lotta guys telling on themselves in this comment section,
-Alibaba releases AI model it says surpasses DeepSeek,No shot Wish AI isn't just Indian scam call center employees.,
-"Vatican says AI has 'shadow of evil,' calls for close oversight",Electricity is devil. This energy should have been banned 100s years ago,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"This implies they were capable of a first thought, mighty complimentary of you.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Brought to you by Carl's Jr.
-
-Just take your BIG ASS FRIES and go.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,It’s pretty well known that during his first term Trump spent large portions of his day watching Fox and would repeat Fox talking points to staffers,
-"ChatGPT’s mobile users are 85% male, report says",This sentence was brought to you by meta AI.,
-"ChatGPT’s mobile users are 85% male, report says",Nobody works a job that AI benefits,
-Alibaba releases AI model it says surpasses DeepSeek,The law applies to all.,
-"ChatGPT’s mobile users are 85% male, report says",I'd put it the other way around actually.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Idiotic of course.  Models coming out 3-4 years from now are already in final design, and all the tooling and capital will be getting kicked off shortly.  No way US automakers are willing to throw away hard fought technological competitiveness with the Asians and Europeans.  Automakers want clear and consistent guidance for any new standards so they can plan their product mix accordingly.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Here's the neat part: IF the cars get cheaper, the price tag on the lot will stay the same!",
-"ChatGPT’s mobile users are 85% male, report says",Using a new tool I don’t really understand and getting disappointed by the results is the most masculine thing I do,
-"ChatGPT’s mobile users are 85% male, report says","This comment thread is full of overly sensitive people, who can not accept any basic statistics regarding gender, because they think _everything is somehow some contest between sexes_. So funny to see how easily you can trigger childish redditors by some factual numbers regarding technology and gender. One of my friends organized an event (international programmer olympics for young people) last year. He told me that after the contest they had to cosmeticize some data, because _less than 3 percent of the participants in the finals were female_, and certain groups would somehow find this offensive, lol. Don't be so afraid of facts people!",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Especially for an engine program. Consistent fuel quality matters, you can't just take stuff like 2000 sulfur diesel and put it into an ultra low sulfur diesel designed engine, it will just bust your whole engine in 10-20% of its expected life.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"It seems like majority of people do not know that the reason cars are way too big in america is their completly broken fuel efficency regulations basicly putting small vehilces at a huge disadvantage. Removal of that bullshit has been due for 10 years. its on of the textbook examples on when regulations are just bad and backfire. (they are not bad in general, but they can be)",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Apparently this guy had no idea about history. He should go back and see imagines of Los Angeles with the city covered in smog. He should read up on acid rain that covered the Midwest and Northeast. These guys are frickin' idiots.,
-"ChatGPT’s mobile users are 85% male, report says","If my job is replaced by AI, everyone else has already been replaced",
-Alibaba releases AI model it says surpasses DeepSeek,Context?,
-"California’s AG Tells AI Companies Practically Everything They’re Doing Might Be Illegal | According to a recent legal memo, Silicon Valley's hottest business may be entirely based around criminal activity.","On the one hand we have a small flock of chickens.
-
-On the other i'm worried about my birds.",
-"ChatGPT’s mobile users are 85% male, report says",It’s not a kitchen.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,What about a bartender? I imagine being a politician is easier than we think.,
-AI research team claims to reproduce DeepSeek core technologies for $30,"The ML community by and large is free and open source. Much of our ML comes from Andrew NG, and he pretty much gave it all for free. The entire ML community shares stuff constantly and new models are being shared everyday. Of course some people and their specific hyperpartameters and data are under wraps, but for the most part when models get developed they don't hide or charge for it like OpenAI does. 
-
-You can download everything for free and begin executing your own LLMs or Neural Nets on your PC. Your only limitation is the GPU and Time. 
-
-If you're reffering to that training data aspect, I don't know. I don't know if Deepseek actually used the same training data that OpenAi compiled, in which case you have a point. Otherwise, the model itself isn't something that was a ""knock off"". All models are built on top of each other.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,There are powerful people who only get richer when we're burning as much gasoline as we possibly can.  They own private islands with the cleanest air you've ever breathed (but never will).,
-Alibaba releases AI model it says surpasses DeepSeek,"I wish this sub accepted posting gifs because the mental images of a Temu AI are amazing.
-
-[""It's not stupid, it's advanced!""](https://www.youtube.com/watch?v=aiGjK64z7KI)",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",“Private” is not a concept in China. You control your company until the government decides they need it.,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,How can they revoke an exemption to a department they are working to dissolve. Can't exempt something that doesn't exist,
-AI research team claims to reproduce DeepSeek core technologies for $30,"It doesnt take a physic to recognize a bubble, and a bubble bursting is inevitable.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"He doesn't actually care. This is just more pandering using popular opinion. It's the same reason Trump is president. Established popular ideas are usually simple, well entrenched, and easily exploited with emotion.",
-Alibaba releases AI model it says surpasses DeepSeek,I mean it was Leonard Nimoy,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Why do believe they will make it worse? They still have to pass California emissions and export. And they know this won’t last.,
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"I've always opposed the extreme concentrations of power in big tech and have largely freed myself from the shackles of Microsoft, Google and Apple.
-
-These 3 corporations however wield the power have their devices do whatever they please in practically every household and every business in my country.  The US government is now directly threatening my country both militarily and economically and backed by tech companies that wield more power over my country than my completely incompetent government.",
-OpenAI Claims DeepSeek Plagiarized. Its Plagiarism Machine.,"Mmmm, I love the sound! Do you love it too? 
-
-The sound of American capitalists crying because Chinese communists just launched super-duper AI, which is not only better but also open-source, and not subscription-based.",
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,"Not sure if CAFE is what I'm remembering (and don't have time to look it up), but I do recall some regulation unexpected consequences. Basically, it calculated emissions *per square foot* of footprint (shadow at high noon) and fined anyone making or selling vehicles over a certain number. 
-
-So to make a small vehicle, it has to be obscenely efficient to avoid the fine, to the point of requiring R&D and more expensive components to pull it off. But big vehicles can get away with MUCH worse, including larger emissions overall per person / trip. It's so stupid.",
-"Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",OpenAI:  “but we stole it first!”,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Good thing they can use Medicare and hospital facilities for their care.....oh wait.....oh no......,
-Trump’s new head of DOT rips up US fuel efficiency regulations | Secretary Duffy claims polluting more will make cars cheaper.,Then the automakers will lie about MPG with a lower number. If a car actually gets 40 MPG then they lie and claim 30. The automakers would not have to change anything.,
+What is that old saw about the pot calling the kettle black?",
+Alibaba releases AI model it says surpasses DeepSeek,Ok? That has nothing to do with this thread though,
