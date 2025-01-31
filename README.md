@@ -46,12 +46,12 @@ To estimate how long it would take to label the dataset, our team labeled **10 c
 |-----------|-----------------|----------------------|--------------------------------|
 | **Chenrui Hao** | 10 | 2 min 50 s | 17 sec |
 | **Yunze Li** | 10 | 2 min 30s | 15 sec |
-| **Qiwen Jiao** | 10 | 3 min 20 sec | 19 sec |
+| **Qiwen Jiao** | 10 | 2 min 11 sec | 13 sec |
 
 ## **Estimated Total Time for Labeling Entire Dataset**
-- Average time per comment: **~17 seconds**
-- Total comments: **1676**
-- Estimated total time: **(1676 × 17 seconds) / 60 minutes** ≈ `7.91` hours
+- Average time per comment: **15 seconds**
+- Total comments: **1930**
+- Estimated total time: **(1930 × 15 seconds) / 3600 seconds** ≈ `8` hours
 
 
 
