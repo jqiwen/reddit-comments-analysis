@@ -1,40 +1,74 @@
 import pandas as pd
 import os
-import random
+import praw
 
-# Load the CSV file
-csv_filename = "reddit_comments.csv"
-df = pd.read_csv(csv_filename)
+# Authorized Config
+reddit = praw.Reddit(
+    client_id="hS-ftEhWxwnx4FNccvST-Q",  
+    client_secret="c8CJbFeUmT6KDoxwNH4IWsuDhF_lZw", 
+    user_agent="Feedback Analysis", 
+)
 
-# Select data from the 70th row to the last
-df_filtered = df.iloc[69:].reset_index(drop=True)
+# focus on the posts in 'technology
+subreddit = reddit.subreddit("technology")
+
+# store all the comments
+total_comments = []
+# according to the calculation, about 2000 comments needed in total
+max_comments = 2000
+# acutal number of comments we get
+comment_count = 0
+
+print("Fetching posts and comments from /r/technology ...... ")
+for post in subreddit.new():  # Fetch new posts
+    if comment_count >= max_comments:
+        break
+
+    # Fetch and process comments
+    post.comments.replace_more(limit=0)  # Ignore "more comments"
+    for comment in post.comments.list():  # Extract all comments
+        if comment_count >= max_comments:
+            break
+        if comment.body.strip():  # Skip empty comments
+            total_comments.append([post.title, comment.body, ""])  # Leave label blank
+            comment_count += 1
+
+    print(f"Processed {comment_count} comments")
+
+total_comments_df = pd.DataFrame(total_comments, columns=["Post Title", "Comment", "Label"])
+
+# Select data from the 70th row to the last 
+# (Keep the first 70 comments as annotation examples, only label on the remaining comments)
+comments_df = total_comments_df.iloc[69:].reset_index(drop=True)
 
 # Shuffle the data randomly
-df_shuffled = df_filtered.sample(frac=1, random_state=42).reset_index(drop=True)
+comments_df_shuffled = comments_df.sample(frac=1, random_state=42).reset_index(drop=True)
 
 # Define the number of splits and size per split
 num_splits = 8
 split_size = 240
 
-total_comments = len(df_shuffled)
+total_comments = len(comments_df_shuffled)
 duplicate_count = int(0.15 * total_comments)  # 15% of total comments will be duplicated
 
-duplicates = df_shuffled.sample(n=duplicate_count, random_state=42)
-df_extended = pd.concat([df_shuffled, duplicates]).sample(frac=1, random_state=42).reset_index(drop=True)
+duplicates = comments_df_shuffled.sample(n=duplicate_count, random_state=42)
+comments_df_extended = pd.concat([comments_df_shuffled, duplicates]).sample(frac=1, random_state=42).reset_index(drop=True)
 
 # Ensure the output directory exists
-output_dir = "split_files"
+output_dir = "datasets"
 os.makedirs(output_dir, exist_ok=True)
 
 # Dictionary to track comment occurrences across files
 comment_file_map = {}
+
+print('Spliting data ......')
 
 # Split the data into 8 parts, ensuring no duplicate comments within the same file
 split_data = []
 for i in range(num_splits):
     start_idx = i * split_size
     end_idx = start_idx + split_size
-    subset = df_extended.iloc[start_idx:end_idx].drop_duplicates(subset=["Comment"]).reset_index(drop=True)
+    subset = comments_df_extended.iloc[start_idx:end_idx].drop_duplicates(subset=["Comment"]).reset_index(drop=True)
     split_data.append(subset)
 
 # Ensure that each comment appears in at most two files
@@ -54,8 +88,8 @@ for subset in split_data:
 
 # Save split files
 for i, subset in enumerate(final_splits):
-    output_filename = os.path.join(output_dir, f"reddit_comments_part_{i+1}.csv")
-    subset.to_csv(output_filename, index=False)
+    output_filename = os.path.join(output_dir, f"dataset_{i+1}.xlsx")
+    subset.to_excel(output_filename, index=False)
 
 # Print duplicated comments and which files they appear in
 comment_file_map = {}
@@ -68,11 +102,9 @@ for i, subset in enumerate(final_splits):
 
 # Display only first few duplicates to avoid slow execution
 duplicated_comments = {c: f for c, f in comment_file_map.items() if len(f) > 1}
-print("Duplicated Comments Across Files (showing first 10):")
 for i, (comment, files) in enumerate(duplicated_comments.items()):
     if i >= 10:
         break
-    print(f"Comment: {comment}\nAppears in files: {', '.join(files)}\n")
 
 # Print the total number of unique comments
 unique_comments = len(comment_file_map)
