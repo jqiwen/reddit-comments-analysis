@@ -1,8 +1,3 @@
-
-
-This dataset contains comments collected from posters under `https://www.reddit.com/r/technology/`. 
-
-
 ### **Data Source**
 - **Platform:** [Reddit](https://www.reddit.com/)
 - **Subreddit:** [r/technology](https://www.reddit.com/r/technology/)
