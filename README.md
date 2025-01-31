@@ -38,20 +38,20 @@ There are **2000** comments in total, and **1676** of them are unique
    - **No duplicate comments exist within the same file**.
 
 
-## ⏳ Estimated Labeling Time
+## Estimated Labeling Time
 
 To estimate how long it would take to label the dataset, our team labeled **10 comments each**, and the average time per comment was recorded.
 
 | Annotator | Comments Labeled | Total Time (minutes) | Avg Time per Comment (seconds) |
 |-----------|-----------------|----------------------|--------------------------------|
-| **Person A** | 10 | 5 min | 30 sec |
-| **Person B** | 10 | 6 min | 36 sec |
-| **Person C** | 10 | 4 min 30 sec | 27 sec |
+| **Chenrui Hao** | 10 | 2 min 50 s | 17 sec |
+| **Yunze Li** | 10 | 2 min 30s | 15 sec |
+| **Qiwen Jiao** | 10 | 3 min 20 sec | 19 sec |
 
-### **⚡ Estimated Total Time for Labeling Entire Dataset**
-- Average time per comment: **~31 seconds**
-- Total comments: **[number of comments]**
-- Estimated total time: **(total_comments × 31 seconds) / 60 minutes** ≈ `[final estimate]` hours
+## **Estimated Total Time for Labeling Entire Dataset**
+- Average time per comment: **~17 seconds**
+- Total comments: **1676**
+- Estimated total time: **(1676 × 17 seconds) / 60 minutes** ≈ `7.91` hours
 
 
 
