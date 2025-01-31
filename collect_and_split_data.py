@@ -35,7 +35,7 @@ for post in subreddit.new():  # Fetch new posts
 
     print(f"Processed {comment_count} comments")
 
-total_comments_df = pd.DataFrame(total_comments, columns=["Post Title", "Comment", "Label"])
+total_comments_df = pd.DataFrame(total_comments, columns=["Post Title", "Comment", "Label (High-Value / Mid-Value / Low-Value / Noisy)"])
 
 # Select data from the 70th row to the last 
 # (Keep the first 70 comments as annotation examples, only label on the remaining comments)
