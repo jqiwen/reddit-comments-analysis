@@ -7,18 +7,21 @@ This dataset contains comments collected from posters under `https://www.reddit.
 - **Platform:** [Reddit](https://www.reddit.com/)
 - **Subreddit:** [r/technology](https://www.reddit.com/r/technology/)
 - **API Used:** [PRAW (Python Reddit API Wrapper)](https://praw.readthedocs.io/en/latest/)
-- **Collection Method:** Extracted using a Python script that fetches the latest comments from posts.
+- **Collection Method:** Using a Python script that fetches the latest comments from posts.
 
 
-### **2️⃣ Collection Procedure**
+### **Collection Procedure**
 The dataset was collected using the following process:
-1. Queried the **r/technology** subreddit using PRAW’s `subreddit.new()` method.
-2. Fetched up to **2000 comments** from recent posts.
-3. Excluded comments that were **empty** or contained only whitespace.
-4. Stored each comment along with the **post title** it belongs to.
-5. Saved the data in structured format (`CSV` and `Excel`).
+1. Register a Reddit account and create an application at [Reddit App](https://www.reddit.com/prefs/apps)
+2. save your API credentials: `client_id`, `client_secret`, `user_agent`
+3. Set up PRAW's praw.Reddit() to connect to the Reddit API.
+4. Use the subreddit.new() method to retrieve the latest posts.
+5. Fetched up to **2000 comments** from recent posts.
+6. Excluded comments that were **empty** or contained only whitespace.
+7. Stored each comment along with the **post title** it belongs to.
+8. Saved the data in `excel` format.
 
-### **2️⃣ Data Format**
+### **Data Format**
 Each row in the dataset represents **one Reddit comment**, and the dataset contains the following columns:
 
 | Column Name | Description |
