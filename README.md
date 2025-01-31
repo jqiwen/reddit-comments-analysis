@@ -1,11 +1,11 @@
-### **Data Source**
+## **Data Source**
 - **Platform:** [Reddit](https://www.reddit.com/)
 - **Subreddit:** [r/technology](https://www.reddit.com/r/technology/)
 - **API Used:** [PRAW (Python Reddit API Wrapper)](https://praw.readthedocs.io/en/latest/)
 - **Collection Method:** Using a Python script that fetches the latest comments from posts.
 
 
-### **Collection Procedure**
+## **Collection Procedure**
 The dataset was collected using the following process:
 1. Register a Reddit account and create an application at [Reddit App](https://www.reddit.com/prefs/apps)
 2. save your API credentials: `client_id`, `client_secret`, `user_agent`
@@ -16,7 +16,7 @@ The dataset was collected using the following process:
 7. Stored each comment along with the **post title** it belongs to.
 8. Saved the data in `excel` format.
 
-### **Data Format**
+## **Data Format**
 Each row in the dataset represents **one Reddit comment**, and the dataset contains the following columns:
 
 | Column Name | Description |
@@ -24,6 +24,8 @@ Each row in the dataset represents **one Reddit comment**, and the dataset conta
 | **Post Title** | The title of the Reddit post where the comment was made |
 | **Comment**    | The actual Reddit comment text |
 | **Label**      | Initially blank; to be manually annotated |
+
+There are **2000** comments in total, and **1676** of them are unique
 
 
 
