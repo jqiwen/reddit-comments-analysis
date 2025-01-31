@@ -25,19 +25,17 @@ Each row in the dataset represents **one Reddit comment**, and the dataset conta
 | **Comment**    | The actual Reddit comment text |
 | **Label**      | Initially blank; to be manually annotated |
 
+
+## Data Processing
+
 There are **2000** comments in total, and **1676** of them are unique
 
-
-
-## 📊 Data Processing
-
-1. **Filtering**: Removed the first **69 rows** (keeping them as examples).
+1. **Filtering**: Removed the first **70 rows** (keeping them as examples).
 2. **Shuffling**: The dataset was randomly shuffled (`random_state=42`) to ensure a diverse sample.
-3. **Splitting**: The dataset was split into **8 CSV files**, each containing **240 comments**.
+3. **Splitting**: The dataset was split into **8 CSV files** evenly.
 4. **Duplicate Handling**:
    - **15% of comments** were duplicated across different files.
    - **No duplicate comments exist within the same file**.
-5. **Encoding**: Saved in **UTF-8-SIG** format to prevent encoding issues when opening in Excel.
 
 
 ## ⏳ Estimated Labeling Time
